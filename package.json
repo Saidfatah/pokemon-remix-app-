@@ -19,7 +19,8 @@
     "remix": "^1.1.1",
     "tailwindcss": "npm:tailwindcss",
     "@tailwindcss/aspect-ratio": "npm:@tailwindcss/aspect-ratio",
-    "@tailwindcss/forms": "npm:@tailwindcss/forms"
+    "@tailwindcss/forms": "npm:@tailwindcss/forms",
+    "@heroicons/react": "npm:@heroicons/react"
   },
   "devDependencies": {
     "@remix-run/dev": "^1.1.1",
